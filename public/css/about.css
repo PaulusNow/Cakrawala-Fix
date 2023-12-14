@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.about{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5rem;
+  font-family: 'Garnet Capitals', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 2000;
+  color: #000CA6;
+}
+
+.misi img {
+  margin: auto;
+  width: 100%;
+  height: auto;
+  margin-bottom: 5rem;
+}
+
+.visi img {
+  margin: auto;
+  width: 100%;
+  height: auto;
+}
