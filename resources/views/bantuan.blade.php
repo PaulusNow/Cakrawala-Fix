@@ -47,7 +47,7 @@ rel="stylesheet"
       <div class="list">
         <input type="radio" name="drop1" id="id1" class="radio" onchange="tampilkanProsedur()">
         <label for="id1">
-          <span>Proses Pemesanan</span>
+          <span>Proses</span>
         </label>
         <input type="radio" name="drop1" id="id2" class="radio" onchange="tampilkanProsedur()">
         <label for="id2">
